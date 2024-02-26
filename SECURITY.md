@@ -1,2 +1,2 @@
 # Reporting security issues
-Please report security issues and vulnerabilities to security@qgis.org
+Please report security issues through github private tool
